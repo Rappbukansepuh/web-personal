@@ -36,7 +36,7 @@ Situs portofolio interaktif profesional dengan tema cyberpunk yang menampilkan e
 Untuk mengubah informasi profil, cari dan edit bagian berikut di `index.html`:
 
 ```html
-<h1 class="hero-title glitch" data-text="Andi Cyber">Andi Cyber</h1>
+<h1 class="hero-title glitch" data-text="VyzeCode">VyzeCode</h1>
 <h2 class="hero-subtitle">Pengembang Digital Futuristik</h2>
 ```
 
